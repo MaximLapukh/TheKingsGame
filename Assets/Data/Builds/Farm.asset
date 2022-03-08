@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fad51bb8197a806469e8cf9ff60cd45c, type: 3}
+  m_Name: Farm
+  m_EditorClassIdentifier: 
+  Name: Farm
+  Icon: {fileID: 0}
+  BuildPref: {fileID: 239163691770584255, guid: 6a71cda7b383cdf4193bf1db9d6df842, type: 3}
+  TemplatePref: {fileID: 6532545116625144805, guid: b7c482360f5031f4b9dd9e8ba0cad43b, type: 3}
+  IsCollectMoney: 1
+  Price: 30
